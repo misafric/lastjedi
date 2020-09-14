@@ -1,0 +1,9 @@
+header {
+  display: flex;
+  flex-direction: row;
+  background: gray; }
+  header a {
+    color: white;
+    text-decoration: none; }
+
+/*# sourceMappingURL=style.css.map */
